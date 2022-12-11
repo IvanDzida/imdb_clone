@@ -1,16 +1,17 @@
 # imdb_clone
 
-A new Flutter project.
+App developed for testing purposes
 
-## Getting Started
+## Notes
 
-This project is a starting point for a Flutter application.
+- App developed on Windows, so tested only on Android device
 
-A few resources to get you started if this is your first Flutter project:
+Simple version: ALL
+Advance version: 
+- 1, 
+- 2, 
+- 3, 
+- 4 - added bearer token ,  
+- 5 - created provider for listening, not implemented on UI
+- 6 - Hero animation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
