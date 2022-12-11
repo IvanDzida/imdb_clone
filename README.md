@@ -7,11 +7,12 @@ App developed for testing purposes
 - App developed on Windows, so tested only on Android device
 
 Simple version: ALL
+
 Advance version: 
-- 1, 
-- 2, 
-- 3, 
-- 4 - added bearer token ,  
-- 5 - created provider for listening, not implemented on UI
-- 6 - Hero animation
+- 1. 
+- 2. 
+- 3. 
+- 4 - added bearer token, custom auth interceptor not implemented.  
+- 5 - created provider for listening, not implemented on UI.
+- 6 - Hero animation.
 
